@@ -1,0 +1,21 @@
+# TODO: upgrade extraction pipeline
+numpy
+pandas
+websocket-client
+python-dotenv==1.0.1
+
+# api
+requests
+fastapi
+uvicorn
+pydantic
+python-multipart
+PyJWT
+httpx
+
+# db
+psycopg2 # For windows
+# psycopg2-binary # For linux
+
+# s3, minio
+boto3
