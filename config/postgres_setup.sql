@@ -1,5 +1,12 @@
 
--- Journeys table
+CREATE TABLE childs (
+    id VARCHAR(20) PRIMARY KEY,              
+    prenom VARCHAR(50) NOT NULL,            
+    age INT NOT NULL,                       
+    ville_residence VARCHAR(100) NOT NULL,   
+    structure_accueil VARCHAR(100) NOT NULL 
+);
+
 CREATE TABLE journeys (
     id VARCHAR(20) PRIMARY KEY,             
     date DATE NOT NULL,                    
@@ -13,7 +20,6 @@ CREATE TABLE journeys (
     cout_taxi_estime DECIMAL(8,2) NOT NULL  
 );
 
--- Drivers table
 CREATE TABLE drivers (
     driver_id SERIAL PRIMARY KEY,
     prenom VARCHAR(50) NOT NULL,                       

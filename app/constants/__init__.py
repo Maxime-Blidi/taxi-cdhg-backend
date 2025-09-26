@@ -2,6 +2,8 @@ import os, sys
 import logging
 from dotenv import load_dotenv
 import json
+import boto3
+from boto3.session import Session
 
 load_dotenv(dotenv_path=os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(__file__))), ".env"), override=True)
 
@@ -21,6 +23,8 @@ AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID", "")
 AWS_ACCESS_KEY_SECRET = os.getenv("AWS_ACCESS_KEY_SECRET", "")
 AWS_REGION_NAME = os.getenv("AWS_REGION_NAME", "")
 BUCKET_NAME = os.getenv("BUCKET_NAME", "")
+SECRET_NAME = os.getenv("SECRET_NAME", "")
+AWS_PROFILE=os.getenv("AWS_PROFILE", "")
 
 POSTGRES_MASTER_USER=os.getenv("POSTGRES_MASTER_USER", "")
 POSTGRES_MASTER_PASSWORD=os.getenv("POSTGRES_MASTER_PASSWORD", "")

@@ -1,0 +1,201 @@
+id;prenom;age;ville_residence;structure_accueil
+ENF_001;Alice;8;L'Union;Placement familial
+ENF_002;Paul;16;Colomiers;Placement familial
+ENF_003;Arthur;12;Castanet-Tolosan;Maison d'Enfants à Caractère Social
+ENF_004;Louise;4;Pibrac;Famille d'accueil
+ENF_005;Pierre;14;Lèguevin;Placement familial
+ENF_006;Adam;17;Blagnac;Famille d'accueil
+ENF_007;Léa;4;Frouzins;Maison d'Enfants à Caractère Social
+ENF_008;Léa;11;Tournefeuille;Maison d'Enfants à Caractère Social
+ENF_009;Juliette;3;Pibrac;Famille d'accueil
+ENF_010;Louise;11;Colomiers;Maison d'Enfants à Caractère Social
+ENF_011;Anna;7;Ramonville-Saint-Agne;Maison d'Enfants à Caractère Social
+ENF_012;Hugo;13;Frouzins;Placement familial
+ENF_013;Lucas;4;Blagnac;Foyer Educatif
+ENF_014;Noah;17;Blagnac;Foyer Educatif
+ENF_015;Juliette;9;Tournefeuille;Placement familial
+ENF_016;Chloé;5;Muret;Maison d'Enfants à Caractère Social
+ENF_017;Pierre;4;Cornebarrieu;Foyer Educatif
+ENF_018;Emma;13;Pins-Justaret;Foyer Educatif
+ENF_019;Louis;12;Portet-sur-Garonne;Famille d'accueil
+ENF_020;Lina;17;Ramonville-Saint-Agne;Maison d'Enfants à Caractère Social
+ENF_021;Anna;9;Pins-Justaret;Foyer Educatif
+ENF_022;Emma;7;Portet-sur-Garonne;Foyer Educatif
+ENF_023;Adam;16;Tournefeuille;Foyer Educatif
+ENF_024;Lucas;10;Toulouse;Placement familial
+ENF_025;Anna;15;Plaisance-du-Touch;Famille d'accueil
+ENF_026;Emma;6;Saint-Orens-de-Gameville;Famille d'accueil
+ENF_027;Alice;12;Lèguevin;Maison d'Enfants à Caractère Social
+ENF_028;Arthur;3;Saint-Orens-de-Gameville;Famille d'accueil
+ENF_029;Louise;9;Tournefeuille;Foyer Educatif
+ENF_030;Gabriel;12;Toulouse;Placement familial
+ENF_031;Louise;9;Tournefeuille;Placement familial
+ENF_032;Emma;6;L'Union;Maison d'Enfants à Caractère Social
+ENF_033;Chloé;12;Pibrac;Foyer Educatif
+ENF_034;Alice;15;Ramonville-Saint-Agne;Maison d'Enfants à Caractère Social
+ENF_035;Lina;8;Colomiers;Famille d'accueil
+ENF_036;Alexandre;3;Ramonville-Saint-Agne;Maison d'Enfants à Caractère Social
+ENF_037;Emma;10;Saint-Orens-de-Gameville;Famille d'accueil
+ENF_038;Alice;4;Fonsorbes;Famille d'accueil
+ENF_039;Paul;7;Lèguevin;Placement familial
+ENF_040;Rose;12;Tournefeuille;Maison d'Enfants à Caractère Social
+ENF_041;Rose;6;Pins-Justaret;Foyer Educatif
+ENF_042;Arthur;13;Pibrac;Maison d'Enfants à Caractère Social
+ENF_043;Adam;12;Toulouse;Famille d'accueil
+ENF_044;Léa;8;Balma;Placement familial
+ENF_045;Alexandre;3;Muret;Famille d'accueil
+ENF_046;Pierre;9;Fonsorbes;Foyer Educatif
+ENF_047;Léa;8;Muret;Placement familial
+ENF_048;Lucas;6;Toulouse;Placement familial
+ENF_049;Anna;4;Saint-Orens-de-Gameville;Foyer Educatif
+ENF_050;Emma;17;Castanet-Tolosan;Foyer Educatif
+ENF_051;Arthur;6;L'Union;Placement familial
+ENF_052;Rose;5;Toulouse;Maison d'Enfants à Caractère Social
+ENF_053;Louise;6;Fonsorbes;Placement familial
+ENF_054;Louis;4;L'Union;Foyer Educatif
+ENF_055;Louis;14;Balma;Foyer Educatif
+ENF_056;Léa;4;Cornebarrieu;Famille d'accueil
+ENF_057;Arthur;14;Blagnac;Foyer Educatif
+ENF_058;Juliette;14;Cugnaux;Famille d'accueil
+ENF_059;Anna;5;Fonsorbes;Foyer Educatif
+ENF_060;Jade;16;Cornebarrieu;Maison d'Enfants à Caractère Social
+ENF_061;Jade;7;Pins-Justaret;Famille d'accueil
+ENF_062;Pierre;17;Saint-Orens-de-Gameville;Maison d'Enfants à Caractère Social
+ENF_063;Jade;12;Saint-Gaudens;Placement familial
+ENF_064;Alice;17;Cornebarrieu;Famille d'accueil
+ENF_065;Chloé;17;Cugnaux;Foyer Educatif
+ENF_066;Louis;10;Colomiers;Placement familial
+ENF_067;Pierre;12;Frouzins;Maison d'Enfants à Caractère Social
+ENF_068;Adam;9;Lèguevin;Maison d'Enfants à Caractère Social
+ENF_069;Jade;5;Ramonville-Saint-Agne;Famille d'accueil
+ENF_070;Hugo;13;Cugnaux;Maison d'Enfants à Caractère Social
+ENF_071;Alexandre;12;Fonsorbes;Foyer Educatif
+ENF_072;Pierre;9;Cugnaux;Foyer Educatif
+ENF_073;Hugo;16;Fonsorbes;Maison d'Enfants à Caractère Social
+ENF_074;Chloé;10;Frouzins;Maison d'Enfants à Caractère Social
+ENF_075;Noah;4;Frouzins;Famille d'accueil
+ENF_076;Anna;9;L'Union;Famille d'accueil
+ENF_077;Louise;10;Plaisance-du-Touch;Placement familial
+ENF_078;Juliette;5;Balma;Placement familial
+ENF_079;Louise;15;Balma;Placement familial
+ENF_080;Lucas;9;Pibrac;Famille d'accueil
+ENF_081;Adam;8;Pibrac;Famille d'accueil
+ENF_082;Juliette;7;Cugnaux;Famille d'accueil
+ENF_083;Arthur;5;Tournefeuille;Placement familial
+ENF_084;Anna;15;Saint-Gaudens;Foyer Educatif
+ENF_085;Léa;5;Frouzins;Placement familial
+ENF_086;Léa;17;Lèguevin;Famille d'accueil
+ENF_087;Arthur;14;Castanet-Tolosan;Maison d'Enfants à Caractère Social
+ENF_088;Juliette;6;Saint-Orens-de-Gameville;Foyer Educatif
+ENF_089;Adam;6;Fonsorbes;Famille d'accueil
+ENF_090;Anna;11;Saint-Orens-de-Gameville;Placement familial
+ENF_091;Chloé;16;Plaisance-du-Touch;Famille d'accueil
+ENF_092;Jade;12;Muret;Placement familial
+ENF_093;Lina;7;Toulouse;Famille d'accueil
+ENF_094;Lina;5;L'Union;Famille d'accueil
+ENF_095;Lucas;12;Ramonville-Saint-Agne;Placement familial
+ENF_096;Juliette;11;Tournefeuille;Maison d'Enfants à Caractère Social
+ENF_097;Noah;17;L'Union;Famille d'accueil
+ENF_098;Alice;5;Colomiers;Famille d'accueil
+ENF_099;Lina;3;Balma;Maison d'Enfants à Caractère Social
+ENF_100;Lina;6;L'Union;Foyer Educatif
+ENF_101;Juliette;7;Toulouse;Maison d'Enfants à Caractère Social
+ENF_102;Arthur;14;Fonsorbes;Maison d'Enfants à Caractère Social
+ENF_103;Noah;7;Castanet-Tolosan;Famille d'accueil
+ENF_104;Anna;13;L'Union;Placement familial
+ENF_105;Pierre;12;Toulouse;Maison d'Enfants à Caractère Social
+ENF_106;Jade;7;Frouzins;Placement familial
+ENF_107;Juliette;12;Pibrac;Placement familial
+ENF_108;Jade;3;Castanet-Tolosan;Placement familial
+ENF_109;Anna;6;Cugnaux;Foyer Educatif
+ENF_110;Hugo;14;Saint-Orens-de-Gameville;Foyer Educatif
+ENF_111;Adam;6;Frouzins;Foyer Educatif
+ENF_112;Noah;3;L'Union;Maison d'Enfants à Caractère Social
+ENF_113;Jade;10;Blagnac;Famille d'accueil
+ENF_114;Alexandre;11;Cugnaux;Maison d'Enfants à Caractère Social
+ENF_115;Lina;3;Saint-Orens-de-Gameville;Foyer Educatif
+ENF_116;Alice;3;Castanet-Tolosan;Maison d'Enfants à Caractère Social
+ENF_117;Pierre;16;Tournefeuille;Maison d'Enfants à Caractère Social
+ENF_118;Alice;4;Ramonville-Saint-Agne;Placement familial
+ENF_119;Louis;7;Pibrac;Foyer Educatif
+ENF_120;Rose;14;Pins-Justaret;Foyer Educatif
+ENF_121;Louis;14;Frouzins;Foyer Educatif
+ENF_122;Emma;5;Ramonville-Saint-Agne;Placement familial
+ENF_123;Paul;4;Plaisance-du-Touch;Maison d'Enfants à Caractère Social
+ENF_124;Juliette;6;Pibrac;Maison d'Enfants à Caractère Social
+ENF_125;Lucas;17;Pins-Justaret;Foyer Educatif
+ENF_126;Adam;5;Castanet-Tolosan;Maison d'Enfants à Caractère Social
+ENF_127;Noah;3;Frouzins;Placement familial
+ENF_128;Alexandre;17;Pibrac;Foyer Educatif
+ENF_129;Juliette;17;Saint-Gaudens;Maison d'Enfants à Caractère Social
+ENF_130;Hugo;4;Toulouse;Famille d'accueil
+ENF_131;Lucas;7;Saint-Orens-de-Gameville;Foyer Educatif
+ENF_132;Emma;14;Saint-Orens-de-Gameville;Placement familial
+ENF_133;Paul;16;Toulouse;Placement familial
+ENF_134;Hugo;15;Ramonville-Saint-Agne;Foyer Educatif
+ENF_135;Lina;5;Blagnac;Famille d'accueil
+ENF_136;Adam;10;L'Union;Famille d'accueil
+ENF_137;Alexandre;15;Tournefeuille;Famille d'accueil
+ENF_138;Arthur;14;Pibrac;Foyer Educatif
+ENF_139;Anna;4;Pibrac;Placement familial
+ENF_140;Chloé;14;Saint-Gaudens;Famille d'accueil
+ENF_141;Rose;11;Ramonville-Saint-Agne;Maison d'Enfants à Caractère Social
+ENF_142;Hugo;13;Fonsorbes;Maison d'Enfants à Caractère Social
+ENF_143;Jade;7;Plaisance-du-Touch;Foyer Educatif
+ENF_144;Gabriel;10;Pins-Justaret;Famille d'accueil
+ENF_145;Lucas;15;Blagnac;Foyer Educatif
+ENF_146;Adam;7;Balma;Maison d'Enfants à Caractère Social
+ENF_147;Jade;17;Lèguevin;Maison d'Enfants à Caractère Social
+ENF_148;Gabriel;4;Fonsorbes;Famille d'accueil
+ENF_149;Gabriel;15;Muret;Famille d'accueil
+ENF_150;Chloé;15;Colomiers;Famille d'accueil
+ENF_151;Alexandre;12;Muret;Famille d'accueil
+ENF_152;Emma;10;Tournefeuille;Maison d'Enfants à Caractère Social
+ENF_153;Lina;8;Fonsorbes;Maison d'Enfants à Caractère Social
+ENF_154;Louis;9;Tournefeuille;Maison d'Enfants à Caractère Social
+ENF_155;Lucas;4;Castanet-Tolosan;Placement familial
+ENF_156;Gabriel;4;Saint-Orens-de-Gameville;Foyer Educatif
+ENF_157;Louis;17;Cugnaux;Famille d'accueil
+ENF_158;Rose;15;Cugnaux;Placement familial
+ENF_159;Chloé;10;Toulouse;Famille d'accueil
+ENF_160;Lucas;5;Balma;Famille d'accueil
+ENF_161;Emma;17;Blagnac;Placement familial
+ENF_162;Alexandre;4;Saint-Gaudens;Famille d'accueil
+ENF_163;Anna;9;Saint-Orens-de-Gameville;Placement familial
+ENF_164;Juliette;16;Saint-Gaudens;Placement familial
+ENF_165;Léa;12;Castanet-Tolosan;Foyer Educatif
+ENF_166;Jade;8;Saint-Orens-de-Gameville;Foyer Educatif
+ENF_167;Lucas;10;Castanet-Tolosan;Foyer Educatif
+ENF_168;Chloé;15;Blagnac;Foyer Educatif
+ENF_169;Emma;5;Fonsorbes;Foyer Educatif
+ENF_170;Noah;9;Ramonville-Saint-Agne;Maison d'Enfants à Caractère Social
+ENF_171;Arthur;10;Castanet-Tolosan;Maison d'Enfants à Caractère Social
+ENF_172;Louise;14;Toulouse;Placement familial
+ENF_173;Paul;7;Pibrac;Maison d'Enfants à Caractère Social
+ENF_174;Anna;4;Muret;Famille d'accueil
+ENF_175;Arthur;5;Toulouse;Foyer Educatif
+ENF_176;Emma;17;Fonsorbes;Famille d'accueil
+ENF_177;Rose;14;Fonsorbes;Maison d'Enfants à Caractère Social
+ENF_178;Arthur;10;L'Union;Famille d'accueil
+ENF_179;Louis;7;Portet-sur-Garonne;Maison d'Enfants à Caractère Social
+ENF_180;Adam;11;Colomiers;Placement familial
+ENF_181;Louise;16;Saint-Gaudens;Famille d'accueil
+ENF_182;Léa;8;Saint-Orens-de-Gameville;Maison d'Enfants à Caractère Social
+ENF_183;Jade;13;Balma;Famille d'accueil
+ENF_184;Léa;12;Ramonville-Saint-Agne;Foyer Educatif
+ENF_185;Chloé;13;Muret;Foyer Educatif
+ENF_186;Lina;15;Portet-sur-Garonne;Foyer Educatif
+ENF_187;Juliette;7;Frouzins;Famille d'accueil
+ENF_188;Anna;6;Colomiers;Maison d'Enfants à Caractère Social
+ENF_189;Hugo;17;Frouzins;Famille d'accueil
+ENF_190;Emma;7;Frouzins;Maison d'Enfants à Caractère Social
+ENF_191;Alice;13;Saint-Orens-de-Gameville;Foyer Educatif
+ENF_192;Alexandre;12;Balma;Maison d'Enfants à Caractère Social
+ENF_193;Jade;13;Colomiers;Placement familial
+ENF_194;Hugo;15;Fonsorbes;Maison d'Enfants à Caractère Social
+ENF_195;Rose;11;Saint-Orens-de-Gameville;Famille d'accueil
+ENF_196;Louis;7;Saint-Orens-de-Gameville;Maison d'Enfants à Caractère Social
+ENF_197;Noah;16;Colomiers;Maison d'Enfants à Caractère Social
+ENF_198;Rose;17;Saint-Orens-de-Gameville;Famille d'accueil
+ENF_199;Lina;15;Balma;Foyer Educatif
+ENF_200;Juliette;11;Lèguevin;Foyer Educatif
