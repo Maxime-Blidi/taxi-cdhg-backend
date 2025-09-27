@@ -72,6 +72,9 @@ merged = merged[
      "journey_distance", "journey_length", "cost"]
 ]
 
+merged["leave_at"] = pd.to_datetime(merged["leave_at"], format="%Y-%m-%d %H:%M:%S")
+merged["arrive_at"] = pd.to_datetime(merged["arrive_at"], format="%Y-%m-%d %H:%M:%S")
+
 print(merged.head())
 
 merged.to_csv(os.path.join(DATA_DIR, "output.csv"), index=False)

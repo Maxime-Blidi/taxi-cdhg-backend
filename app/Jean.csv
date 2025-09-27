@@ -1,0 +1,7 @@
+vehicle,order,node,type,arrive_min,arrive_hhmm,lat,lon,address,child_id
+0,5,7,pickup,56,00:56,43.516101,1.3228991,Frouzins,6.0
+0,10,23,drop,152,02:32,43.6044638,1.4442433,Toulouse,6.0
+0,19,12,pickup,277,04:37,43.516101,1.3228991,Frouzins,11.0
+0,20,28,drop,285,04:45,43.5365192,1.3454426,Cugnaux,11.0
+0,25,2,pickup,347,05:47,43.6343476,1.3986403,Blagnac,1.0
+0,27,18,drop,383,06:23,43.5283006,1.4018308,Portet-sur-Garonne,1.0

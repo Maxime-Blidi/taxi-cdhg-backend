@@ -3,6 +3,13 @@ numpy
 pandas
 websocket-client
 python-dotenv==1.0.1
+matplotlib
+tqdm 
+ortools 
+openpyxl 
+geopy 
+folium 
+ortools
 
 # api
 requests
@@ -18,4 +25,4 @@ psycopg2 # For windows
 # psycopg2-binary # For linux
 
 # s3, minio
-boto3
+boto3  

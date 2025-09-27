@@ -1,0 +1,9 @@
+vehicle,order,node,type,arrive_min,arrive_hhmm,lat,lon,address,child_id
+0,2,11,pickup,101,01:41,43.6189112,1.2837373,Pibrac,10.0
+0,3,1,pickup,102,01:42,43.6189112,1.2837373,Pibrac,0.0
+0,10,17,drop,198,03:18,43.5283006,1.4018308,Portet-sur-Garonne,0.0
+0,12,16,pickup,217,03:37,43.5460533,1.4749101,Ramonville-Saint-Agne,15.0
+0,13,27,drop,228,03:48,43.517214,1.4980801,Castanet-Tolosan,10.0
+0,17,32,drop,276,04:36,43.4599858,1.3262332,Muret,15.0
+0,26,6,pickup,434,07:14,43.481576,1.3847977,Pins-Justaret,5.0
+0,32,22,drop,493,08:13,43.6096587,1.4980089,Balma,5.0

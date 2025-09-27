@@ -1,0 +1,7 @@
+vehicle,order,node,type,arrive_min,arrive_hhmm,lat,lon,address,child_id
+0,1,8,pickup,188,03:08,43.5355879,1.2312145,Fonsorbes,7.0
+0,11,24,drop,328,05:28,43.5283006,1.4018308,Portet-sur-Garonne,7.0
+0,13,3,pickup,345,05:45,43.481576,1.3847977,Pins-Justaret,2.0
+0,22,19,drop,437,07:17,43.6096587,1.4980089,Balma,2.0
+0,27,13,pickup,509,08:29,43.5650991,1.2956832,Plaisance-du-Touch,12.0
+0,28,29,drop,510,08:30,43.5650991,1.2956832,Plaisance-du-Touch,12.0

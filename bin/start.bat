@@ -1,9 +1,15 @@
-
 @echo off
-echo "Starting the backend server..."
-
+REM Go up one directory
 cd ..
-docker-compose -f "docker-compose.yml" -p "backend" up -d
 
-echo "Program completed. If an error arose, see the message above."
+REM Activate the virtual environment
+call .venv\Scripts\activate.bat
+
+REM Go into the app folder
+cd app
+
+REM Run the Python script
+python test3.py solve show
+
+REM Pause to see output
 pause

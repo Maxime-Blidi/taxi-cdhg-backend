@@ -1,0 +1,7 @@
+vehicle,order,node,type,arrive_min,arrive_hhmm,lat,lon,address,child_id
+1,7,6,pickup,119,01:59,43.5832062,1.3460025,Tournefeuille,4.0
+1,8,22,drop,132,02:12,43.5650991,1.2956832,Plaisance-du-Touch,4.0
+1,19,11,pickup,248,04:08,43.6044638,1.4442433,Toulouse,9.0
+1,22,27,drop,263,04:23,43.6096587,1.4980089,Balma,9.0
+1,23,16,pickup,279,04:39,43.657697,1.4835056,L'Union,14.0
+1,26,32,drop,360,06:00,43.5365192,1.3454426,Cugnaux,14.0
