@@ -1,0 +1,46 @@
+[
+  {
+    "id_journey": "TRA_0002",
+    "children": {
+      "ENF_040": {
+        "action": "boards",
+        "name": "Rose"
+      },
+      "ENF_040_2": {
+        "action": "leaves",
+        "name": "Rose"
+      }
+    },
+    "demand_type": "Consultation spécialisée",
+    "target_location": {
+      "x": 1.2949,
+      "y": 43.564686
+    },
+    "leave_at": "13:15",
+    "arrive_at": "14:20",
+    "journey_length": 65,
+    "distance": 4.59
+  },
+  {
+    "id_journey": "TRA_0006",
+    "children": {
+      "ENF_014": {
+        "action": "boards",
+        "name": "Noah"
+      },
+      "ENF_014_2": {
+        "action": "leaves",
+        "name": "Noah"
+      }
+    },
+    "demand_type": "Audience tribunal",
+    "target_location": {
+      "x": 1.399535,
+      "y": 43.528559
+    },
+    "leave_at": "15:45",
+    "arrive_at": "16:50",
+    "journey_length": 65,
+    "distance": 12.01
+  }
+]
