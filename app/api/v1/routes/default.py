@@ -12,22 +12,12 @@ import jwt
 import json
 from pydantic import BaseModel
 
-from database import DatabaseRelationalPostgreSQL 
 from ..models import  table
 from constants import AWS_ACCESS_KEY_ID, AWS_ACCESS_KEY_SECRET, AWS_REGION_NAME, \
                     POSTGRES_HOST, POSTGRES_PASSWORD, POSTGRES_PORT, POSTGRES_SCHEMA, POSTGRES_USER
 
 router = APIRouter()
 
-
-db = DatabaseRelationalPostgreSQL(schema=POSTGRES_SCHEMA,
-                                    host=POSTGRES_HOST,
-                                    user=POSTGRES_USER,
-                                    password=POSTGRES_PASSWORD,
-                                    connection_timeout=10,
-                                    aws_access_key_id=AWS_ACCESS_KEY_ID,
-                                    aws_secret_access_key=AWS_ACCESS_KEY_SECRET,
-                                    aws_region_name=AWS_REGION_NAME)
 
 class Response(BaseModel):
     id_trajet: str
